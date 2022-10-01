@@ -35,7 +35,7 @@ export default function index() {
         </DetailSubtitle>
         <DetailButton>
           <DetailButtonText>
-            <Link to="/create">Create my event</Link>
+            <Link to="/event">Create my event</Link>
           </DetailButtonText>
         </DetailButton>
       </DetailsContainer>
